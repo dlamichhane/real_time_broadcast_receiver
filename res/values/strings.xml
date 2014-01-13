@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!-- Real time data acquisition, the Department of Information Processing Science,
+     the University of Oulu, Finland.
+-->
+<resources>
+    <string name="app_name">RTDA Receiver</string>
+    
+    <!-- maim.xml -->
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="run">Run</string>
+    <string name="report">Report</string>
+    <string name="welcome">Welcome, Today is: </string>
+    
+</resources>
